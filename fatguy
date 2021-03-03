@@ -1,4 +1,4 @@
-local paste = "h"
+local paste = "https://raw.githubusercontent.com/ItsTresk/gtagay/main/fatguy"
 local message = "KID MIC UP ILL EZ YOU le gtamin2025"
 if not game:IsLoaded() then game.Loaded:wait() end
 
